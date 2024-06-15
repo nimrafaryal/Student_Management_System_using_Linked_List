@@ -26,9 +26,6 @@ When you run the program, you will be presented with a menu to manage the studen
 3. **Delete a Student by ID**: Enter the student's ID to delete their record.
 4. **Display All Students**: View all student records in sorted order.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
